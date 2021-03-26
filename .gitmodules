@@ -1,3 +1,12 @@
 [submodule "paru"]
 	path = paru
 	url = https://aur.archlinux.org/paru.git
+[submodule "flat-remix"]
+	path = flat-remix
+	url = https://aur.archlinux.org/flat-remix.git
+[submodule "flat-remix-gnome"]
+	path = flat-remix-gnome
+	url = https://aur.archlinux.org/flat-remix-gnome.git
+[submodule "flat-remix-gtk"]
+	path = flat-remix-gtk
+	url = https://aur.archlinux.org/flat-remix-gtk.git
