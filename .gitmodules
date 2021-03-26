@@ -10,3 +10,9 @@
 [submodule "flat-remix-gtk"]
 	path = flat-remix-gtk
 	url = https://aur.archlinux.org/flat-remix-gtk.git
+[submodule "nerd-fonts-complete"]
+	path = nerd-fonts-complete
+	url = https://aur.archlinux.org/nerd-fonts-complete.git
+[submodule "nerd-fonts-jetbrains-mono"]
+	path = nerd-fonts-jetbrains-mono
+	url = https://aur.archlinux.org/nerd-fonts-jetbrains-mono.git
