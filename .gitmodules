@@ -16,3 +16,15 @@
 [submodule "nerd-fonts-jetbrains-mono"]
 	path = nerd-fonts-jetbrains-mono
 	url = https://aur.archlinux.org/nerd-fonts-jetbrains-mono.git
+[submodule "ruby-clocale"]
+	path = ruby-clocale
+	url = https://aur.archlinux.org/ruby-clocale
+[submodule "ruby-colorls"]
+	path = ruby-colorls
+	url = https://aur.archlinux.org/ruby-colorls
+[submodule "ruby-filesize"]
+	path = ruby-filesize
+	url = https://aur.archlinux.org/ruby-filesize/
+[submodule "ruby-unicode-display_width"]
+	path = ruby-unicode-display_width
+	url = https://aur.archlinux.org/ruby-unicode-display_width/
